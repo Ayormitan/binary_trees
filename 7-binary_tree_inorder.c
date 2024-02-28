@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_preorder - transverse bianry tree in a pre-order manner
+ * binary_tree_inorder - transverse bianry tree in a pre-order manner
  *
  * @tree: Pointer to the root node of the tree
  * @func: Pointer to a function to call for each node
